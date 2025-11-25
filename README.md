@@ -35,6 +35,5 @@ An interactive Excel dashboard to track and analyze sales executive performance 
 - Dashboard Design
 - Business Analytics
 
----
 
-Feel free to provide feedback or suggestions!
+
